@@ -7,7 +7,7 @@ const Section7 = ({ Object }) => {
       <img
         className="desktop:relative desktop:right-96"
         src={Object.img}
-        alt=""
+        alt="img"
       />
       <div className="flex flex-col items-center w-full text-white">
         <h2 className="text-Heading1L">{Object.title}</h2>
