@@ -24,7 +24,8 @@ const Section4 = ({ Object }) => {
           <img
             className="-mt-10 -mr-10 h-[625px] min-w-[713px] tablet:h-[425px] tablet:min-w-[513px] mobile:h-[325px] mobile:min-w-[313px] cursor-pointer"
             src={DecoVideo}
-          ></img>
+            alt="img"
+          />
         </div>
       </div>
     </div>
